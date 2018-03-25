@@ -1,0 +1,11 @@
+C:\Users\Robert\source\repos\Assignment6_2017\Assignment6_2017\Assignment6_2017\obj\Debug\netcoreapp2.0\Assignment6_2017.csprojResolveAssemblyReference.cache
+C:\Users\Robert\source\repos\Assignment6_2017\Assignment6_2017\Assignment6_2017\obj\Debug\netcoreapp2.0\Assignment6_2017.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\Assignment6_2017\Assignment6_2017\Assignment6_2017\obj\Debug\netcoreapp2.0\Assignment6_2017.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\Assignment6_2017\Assignment6_2017\Assignment6_2017\obj\Debug\netcoreapp2.0\Assignment6_2017.AssemblyInfo.cs
+C:\Users\Robert\source\repos\Assignment6_2017\Assignment6_2017\Assignment6_2017\bin\Debug\netcoreapp2.0\Assignment6.deps.json
+C:\Users\Robert\source\repos\Assignment6_2017\Assignment6_2017\Assignment6_2017\bin\Debug\netcoreapp2.0\Assignment6.runtimeconfig.json
+C:\Users\Robert\source\repos\Assignment6_2017\Assignment6_2017\Assignment6_2017\bin\Debug\netcoreapp2.0\Assignment6.runtimeconfig.dev.json
+C:\Users\Robert\source\repos\Assignment6_2017\Assignment6_2017\Assignment6_2017\bin\Debug\netcoreapp2.0\Assignment6.dll
+C:\Users\Robert\source\repos\Assignment6_2017\Assignment6_2017\Assignment6_2017\bin\Debug\netcoreapp2.0\Assignment6.pdb
+C:\Users\Robert\source\repos\Assignment6_2017\Assignment6_2017\Assignment6_2017\obj\Debug\netcoreapp2.0\Assignment6.dll
+C:\Users\Robert\source\repos\Assignment6_2017\Assignment6_2017\Assignment6_2017\obj\Debug\netcoreapp2.0\Assignment6.pdb

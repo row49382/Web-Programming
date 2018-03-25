@@ -1,0 +1,11 @@
+C:\Users\Robert\source\repos\FinalProject\FinalProject\obj\Debug\netcoreapp2.0\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Robert\source\repos\FinalProject\FinalProject\obj\Debug\netcoreapp2.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\FinalProject\FinalProject\obj\Debug\netcoreapp2.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\FinalProject\FinalProject\obj\Debug\netcoreapp2.0\FinalProject.AssemblyInfo.cs
+C:\Users\Robert\source\repos\FinalProject\FinalProject\bin\Debug\netcoreapp2.0\FinalProject.deps.json
+C:\Users\Robert\source\repos\FinalProject\FinalProject\bin\Debug\netcoreapp2.0\FinalProject.runtimeconfig.json
+C:\Users\Robert\source\repos\FinalProject\FinalProject\bin\Debug\netcoreapp2.0\FinalProject.runtimeconfig.dev.json
+C:\Users\Robert\source\repos\FinalProject\FinalProject\bin\Debug\netcoreapp2.0\FinalProject.dll
+C:\Users\Robert\source\repos\FinalProject\FinalProject\bin\Debug\netcoreapp2.0\FinalProject.pdb
+C:\Users\Robert\source\repos\FinalProject\FinalProject\obj\Debug\netcoreapp2.0\FinalProject.dll
+C:\Users\Robert\source\repos\FinalProject\FinalProject\obj\Debug\netcoreapp2.0\FinalProject.pdb

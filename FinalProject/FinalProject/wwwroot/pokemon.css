@@ -1,0 +1,41 @@
+﻿.ball 
+{
+    width: 30px;
+    height:30px;
+}
+
+#title
+{
+    font-size: 2em;
+    font-family: Verdana;
+}
+
+.font
+{
+    font-family: Verdana
+}
+
+.result
+{
+   color: green;
+}
+
+.error
+{
+    color: red;
+}
+
+#img
+{
+    height:200px;
+    width:200px;
+    top:50%;
+    left:50%;
+    position: relative;
+}
+
+.positionRight
+{
+    text-align: right;
+}
+

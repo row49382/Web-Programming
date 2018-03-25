@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="pokemon.css" />
+    <script src="pokemon.js"></script>
+    <script src="https://code.jquery.com/jquery-2.2.4.js" integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI=" crossorigin="anonymous"></script>
+    <title></title>
+</head>
+<body>
+    <img src="Pokeball.PNG" class="ball" />
+    <span id="title">Build Your Team of Pokemon!</span>
+    <img src="Pokeball.PNG" class="ball" />
+    <form>
+        <span class="font">Pokemon: </span><input type="text" id="pokemon" value=""/><br />
+        <span class="font">Entry Number: </span><input type="text" id="entryNumber" value=""/><br />
+        <span class="font">Level: </span><input type="text" id="levelNumber" value="" /><br />
+        <span class="font">Moveset: </span>
+        <ul>
+            <li><input type="text" id="moveOne" value=""/></li>
+            <li><input type="text" id="moveTwo" value=""/></li>
+            <li><input type="text" id="moveThree" value=""/></li>
+            <li><input type="text" id="moveFour" value=""/></li>
+        </ul>
+        <input type="button" id="submit" value="Add to Team!" onclick="runPost()" />
+        <input type="button" id="showAll" value="Show Current Team" onclick="runGet()" />
+        <input type="button" id="hidden" value="Add To Team...!" disabled onclick="runHackedPost()">
+    </form>
+    <form>
+        <div class="result" id="result"></div>
+        <div class="error" id="error"></div>
+    </form>
+    <br />
+    <hr />
+    <br />
+    <form id="pokemonList">
+        <img src="Pokeball.PNG" class="ball" />
+        <span id="title">View Current Team</span>
+        <img src="Pokeball.PNG" class="ball" />
+        <br />
+        <input type="radio" id="1" name="rb" value="Pokemon1" onclick="changeVisibility()"><label id="pos1"></label><br />
+        <input type="radio" id="2" name="rb" value="Pokemon2" onclick="changeVisibility()"><label id="pos2"></label><br />
+        <input type="radio" id="3" name="rb" value="Pokemon3" onclick="changeVisibility()"><label id="pos3"></label><br />
+        <input type="radio" id="4" name="rb" value="Pokemon4" onclick="changeVisibility()"><label id="pos4"></label><br />
+        <input type="radio" id="5" name="rb" value="Pokemon5" onclick="changeVisibility()"><label id="pos5"></label><br />
+        <input type="radio" id="6" name="rb" value="Pokemon6" onclick="changeVisibility()"><label id="pos6"></label><br />
+        <input type="button" id="delete" value="Release Pokemon" disabled="disabled" onclick="runDelete()" />
+    </form>
+</body>
+</html>

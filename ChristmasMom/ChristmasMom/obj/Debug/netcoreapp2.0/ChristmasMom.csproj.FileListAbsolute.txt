@@ -1,0 +1,11 @@
+C:\Users\Robert\source\repos\ChristmasMom\ChristmasMom\bin\Debug\netcoreapp2.0\ChristmasMom.deps.json
+C:\Users\Robert\source\repos\ChristmasMom\ChristmasMom\bin\Debug\netcoreapp2.0\ChristmasMom.runtimeconfig.json
+C:\Users\Robert\source\repos\ChristmasMom\ChristmasMom\bin\Debug\netcoreapp2.0\ChristmasMom.runtimeconfig.dev.json
+C:\Users\Robert\source\repos\ChristmasMom\ChristmasMom\bin\Debug\netcoreapp2.0\ChristmasMom.dll
+C:\Users\Robert\source\repos\ChristmasMom\ChristmasMom\bin\Debug\netcoreapp2.0\ChristmasMom.pdb
+C:\Users\Robert\source\repos\ChristmasMom\ChristmasMom\obj\Debug\netcoreapp2.0\ChristmasMom.csprojResolveAssemblyReference.cache
+C:\Users\Robert\source\repos\ChristmasMom\ChristmasMom\obj\Debug\netcoreapp2.0\ChristmasMom.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\ChristmasMom\ChristmasMom\obj\Debug\netcoreapp2.0\ChristmasMom.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\ChristmasMom\ChristmasMom\obj\Debug\netcoreapp2.0\ChristmasMom.AssemblyInfo.cs
+C:\Users\Robert\source\repos\ChristmasMom\ChristmasMom\obj\Debug\netcoreapp2.0\ChristmasMom.dll
+C:\Users\Robert\source\repos\ChristmasMom\ChristmasMom\obj\Debug\netcoreapp2.0\ChristmasMom.pdb

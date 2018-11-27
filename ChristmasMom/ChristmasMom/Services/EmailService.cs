@@ -13,10 +13,10 @@ namespace ChristmasMom.Services
         public void SendMail(EmailModel model)
         {
             MailMessage Message = new MailMessage();
-            Message.Subject = "Christmas Email For Mom";
-            Message.Body = "Hey Mom!<br /><br />I thought you would appreciate some creativity :). You will find your gift at the following location: <a href='https://anokahennepin.cr3.rschooltoday.com/public/costoption/class_id/26756/public/1/sp/'>Click me!</a><br/><br/> Merry Christmas! <br />Love Bobby";
+            Message.Subject = "some subject";
+            Message.Body = "some message";
             Message.IsBodyHtml = true;
-            Message.From = new MailAddress("rwroblew610@gmail.com");
+            Message.From = new MailAddress("someAddress@mail.com");
             Message.To.Add(new MailAddress(model.Address));
 
 
@@ -27,7 +27,7 @@ namespace ChristmasMom.Services
                 UseDefaultCredentials = false,
                 DeliveryMethod = SmtpDeliveryMethod.Network,
                 EnableSsl = true,
-                Credentials = new NetworkCredential("rwroblew610", "Jesus610!")
+                Credentials = new NetworkCredential("user", "pass")
             };
             client.Send(Message);
         }
